@@ -1,5 +1,5 @@
 # LPFSTNet
-This is the code and dataset to the paper "LPFSTNet: A Lightweight and Parameter-Free Head Attention-based Student-Teacher Network for Fast 3D Industrial Anomaly Detection" by Yahui Cheng, Junchao Chen, Guojun Wen, Xianhua Tan, Xingyue Liu.
+This is the code and dataset to the paper "LPFSTNet: A Lightweight and Parameter-Free Head Attention-based Student-Teacher Network for Fast 3D Industrial Anomaly Detection" by Yahui Cheng, Junchao Chen, Guojun Wen, Xianhua Tan and Xingyue Liu.
 
 ### Code
 
