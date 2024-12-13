@@ -1,7 +1,9 @@
 # LPFSTNet
 This is the code and dataset to the paper "LPFSTNet: A Lightweight and Parameter-Free Head Attention-based Student-Teacher Network for Fast 3D Industrial Anomaly Detection" by Yahui Cheng, Junchao Chen, Guojun Wen, Xianhua Tan, Xingyue Liu.
 
+### Code
 
+### Dataset
 This dataset contains 5 different categories of objects (including sleeve, nut1, nut 2, part 1, and part 2) which was collected by ourself via using a D435 depth camera.
 
 The RGB image and depth image of these objects are presented as follow:
